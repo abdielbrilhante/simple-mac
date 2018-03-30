@@ -1,0 +1,10 @@
+{
+  "name": "simple-mac",
+  "version": "0.0.1",
+  "description": "Shamelessly simple MAC address getter",
+  "main": "src/index.js",
+  "repository": "git@github.com:abdielbrilhante/simple-mac.git",
+  "author": "Abdiel Brilhante",
+  "license": "MIT",
+  "private": false
+}
