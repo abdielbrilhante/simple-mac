@@ -5,7 +5,7 @@ I needed to obtain the MAC address in a few Electron-based systems in the compan
 
 ## Usage
 
-```
+```node
 const addresses = require('simple-mac');
 
 console.log(addresses()) // Prints array with available MAC addresses
